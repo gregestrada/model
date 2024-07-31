@@ -1,0 +1,11 @@
+Model Information:
+* title:	VD 4608 3D
+* source:	https://sketchfab.com/3d-models/vd-4608-3d-268c3657a2124caaa0e7fdfb20acf3cb
+* author:	vareladesign (https://sketchfab.com/vareladesign)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "VD 4608 3D" (https://sketchfab.com/3d-models/vd-4608-3d-268c3657a2124caaa0e7fdfb20acf3cb) by vareladesign (https://sketchfab.com/vareladesign) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
